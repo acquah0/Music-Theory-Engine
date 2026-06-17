@@ -1,6 +1,12 @@
-# Ignore everything except README and setup script
-*
-!.gitignore
-!README.md
-!setup.iss
-!PRIVACY_POLICY.md
+release2/
+installer/
+msix/
+*.obj
+moc_*
+*.exe
+*.dll
+*.user
+build/
+debug/
+*.pfx
+*.ps1
