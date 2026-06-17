@@ -1,0 +1,6 @@
+# Ignore everything except README and setup script
+*
+!.gitignore
+!README.md
+!setup.iss
+!PRIVACY_POLICY.md
